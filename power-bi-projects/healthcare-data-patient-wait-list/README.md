@@ -10,31 +10,32 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 - Interactive Dashboards (filters, slicers, drill-throughs)
 
 ## 📊 Datasets
-- The datasets used in this project contain real publicly available healthcare data (non-sensitive, anonymized).
-- The data analyzed is from the years 2018, 2019, 2020 and 2021.
-- The datasets are located in the Inpatient and Outpatient folders respectivaly.
-- The data is devided into 2 tables per year depending on the case type of patient - Inpatient or Outpatient.
-- Inpatient - a patient that stays in a hospital while under treatment .
-- Outpatient - a patient who receives medical treatment without being admitted to the hospital.
-- Day Case type is also analyzed in the project, it is an Inpatient case that had stayed in a hospital for tratment for only one day
-- So for the 4 years there 8 csv files in total, which are merged into "All_Data" table later in the project.
-- There is also a Maping_Specialty.csv which is used for mapping the Specialty in the "All_Data" table with the Speacialty Group in the Maping_Specialty.csv.
+- The datasets used in this project contain real, publicly available healthcare data (non-sensitive, anonymized).
+- The data analyzed covers the years **2018, 2019, 2020, and 2021**.
+- The datasets are located in the **Inpatient** and **Outpatient** folders respectively.
+- The data is **divided into two tables per year** depending on the patient case type — **Inpatient** or **Outpatient**.
+- **Inpatient**: A patient that stays in a hospital while under treatment.
+- **Outpatient**: A patient who receives medical treatment without being admitted to the hospital.
+- **Day Case**: Also analyzed in the project. This is an Inpatient case that stayed in a hospital for treatment for only one day.
+- For the four years, there are **eight CSV files in total**, which are merged into the **“All_Data”** table later in the project.
+- There is also a **Mapping_Specialty.csv**, which is used for mapping the **Specialty** in the **“All_Data”** table with **the Specialty Group** in the **Mapping_Specialty.csv**.
 
 ## 📈 Dashboard Overview
 
 ### Summary page
 ![Summary](Summary.png)
-Numbers present on the various dashboard visuals depend of the date selected on a Archive Date Slider and the state of the Average - Median Wait List switch button
-- Archive Date Slider (Upper)
-- Average - Median Total Wait List switch button (Upper Right)
-- Multi Row Card (Right) Top 5 Specialties Names and Total Wait List per Specialty 
-- Donut Chart (Upper Left) which presents Total Wait List by Case Type (Inpatient, Outpatient, Day Case)
-- Two Cards (Left) with Total Wait List for the current month and for the same month previus year 
-- Stacked column chart (Center) with (Wait) Time Band on the Y axis and Total Wait List in the X axis by age of the patients
-- Line Chart (Bottom Left) with Total Wait List on the Y axis and Archive Date on X axis for the Day Case and Inpatient case types
-- Line Chart (Bottom Right) with Total Wait List on the Y axis and Archive Date on X axis for the Outpatient case type
+- Numbers present on the various dashboard visuals **depend on the date selected** in the **Archive Date Slider** and the **state** of the **Average–Median Wait List switch button**:
+- **Archive Date Slider (Upper)**
+- **Average–Median Total Wait List Switch Button (Upper Right)**
+- **Multi-Row Card (Right)**: Top 5 Specialties Names and Total Wait List per Specialty
+- **Donut Chart (Upper Left)**: Presents Total Wait List by Case Type (Inpatient, Outpatient, Day Case)
+- **wo Cards (Left)**: Total Wait List for the current month and for the same month previous year
+- **Stacked Column Chart (Center)**: Wait Time Band on the Y-Axis and Total Wait List on the X-Axis by Age of Patients
+- **Line Chart (Bottom Left)**: Total Wait List on the Y-Axis and Archive Date on the X-Axis for the Day Case and Inpatient Case Types
+- **Line Chart (Bottom Right)**: Total Wait List on the Y-Axis and Archive Date on the X-Axis for the Outpatient Case Type
+- **A drill-down feature** is implemented in the **Bottom Left Line Chart** showing Total Wait List and its breakdown by Specialty Groups for the date pointed on the chart.
  
-### Summary page showing the implementation of the drilldown feature
+### Summary Page Showing the Implementation of the Drill-Down Feature
 ![SummaryDrillDown](SummaryDrillDown.png)
 
 ## 📈 Key Insights
