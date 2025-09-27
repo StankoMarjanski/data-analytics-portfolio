@@ -23,7 +23,7 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 ## 📈 Dashboard Overview
 
 ### Summary page
-![Summary](Summary.png)
+![Summary](dashboard-screenshots/Summary.png)
 **Visuals**
 Numbers present on the various dashboard visuals **depend on the date selected** in the **Archive Date Slider** and the **state** of the **Average–Median Wait List switch button**
 - **Archive Date Slider (Upper Center)**
@@ -39,10 +39,10 @@ Numbers present on the various dashboard visuals **depend on the date selected**
 - **A drill-down feature** is implemented in the **Bottom Left Line Chart** showing Total Wait List and its breakdown by Specialty Groups for the date pointed on the chart.
  
 ### Summary Page Showing the Implementation of the Drill-Down Feature
-![SummaryDrillDown](SummaryDrillDown.png)
+![SummaryDrillDown](dashboard-screenshots/SummaryDrillDown.png)
 
 ### Detail Page
-![Detail](Detail.png)
+![Detail](dashboard-screenshots/Detail.png)
 **Visuals**
 - **Archive Date Slider (Upper Left)**
 - **Slicer (Upper Left)** for the **Case Types** with a dropdown select options: Select All, Day Case, Inpatient, Outpatient
