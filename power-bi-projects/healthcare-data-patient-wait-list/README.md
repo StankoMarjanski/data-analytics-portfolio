@@ -21,7 +21,8 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 - There is also a Maping_Specialty.csv which is used for mapping the Specialty in the "All_Data" table with the Speacialty Group in the Maping_Specialty.csv.
 
 ## 📈 Dashboard Overview
-###Summary page
+
+### Summary page
 ![Summary](Summary.png)
 Numbers present on the various dashboard visuals depend of the date selected on a Archive Date Slider and the state of the Average - Median Wait List switch button
 - Archive Date Slider (Upper)
@@ -32,6 +33,9 @@ Numbers present on the various dashboard visuals depend of the date selected on 
 - Stacked column chart (Center) with (Wait) Time Band on the Y axis and Total Wait List in the X axis by age of the patients
 - Line Chart (Bottom Left) with Total Wait List on the Y axis and Archive Date on X axis for the Day Case and Inpatient case types
 - Line Chart (Bottom Right) with Total Wait List on the Y axis and Archive Date on X axis for the Outpatient case type
+ 
+### Summary page showing the implementation of the drilldown feature
+![SummaryDrillDown](SummaryDrillDown.png)
 
 ## 📈 Key Insights
 - Trends in patient visits across time and region
