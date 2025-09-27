@@ -38,6 +38,9 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 ### Summary Page Showing the Implementation of the Drill-Down Feature
 ![SummaryDrillDown](SummaryDrillDown.png)
 
+### Detail Page
+![Detail](Detail.png)
+
 ## 📈 Key Insights
 - Trends in patient visits across time and region
 - Cost distribution and billing breakdowns
