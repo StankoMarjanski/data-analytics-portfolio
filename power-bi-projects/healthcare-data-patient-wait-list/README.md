@@ -24,12 +24,15 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 
 ### Summary page
 ![Summary](Summary.png)
-- Numbers present on the various dashboard visuals **depend on the date selected** in the **Archive Date Slider** and the **state** of the **Average–Median Wait List switch button**:
-- **Archive Date Slider (Upper)**
+**Visuals**
+Numbers present on the various dashboard visuals **depend on the date selected** in the **Archive Date Slider** and the **state** of the **Average–Median Wait List switch button**
+- **Archive Date Slider (Upper Center)**
+- **Slicer (Upper Center)** for the **Case Types** with a dropdown select options (Select All, Day Case, Inpatient, Outpatient)
+- **Slicer (Upper Right)** for the **Specialty Name** with a dropdown select options for all types of specialties that exist
 - **Average–Median Total Wait List Switch Button (Upper Right)**
 - **Multi-Row Card (Right)**: Top 5 Specialties Names and Total Wait List per Specialty
 - **Donut Chart (Upper Left)**: Presents Total Wait List by Case Type (Inpatient, Outpatient, Day Case)
-- **wo Cards (Left)**: Total Wait List for the current month and for the same month previous year
+- **Two Cards (Left)**: Total Wait List for the current month and for the same month previous year
 - **Stacked Column Chart (Center)**: Wait Time Band on the Y-Axis and Total Wait List on the X-Axis by Age of Patients
 - **Line Chart (Bottom Left)**: Total Wait List on the Y-Axis and Archive Date on the X-Axis for the Day Case and Inpatient Case Types
 - **Line Chart (Bottom Right)**: Total Wait List on the Y-Axis and Archive Date on the X-Axis for the Outpatient Case Type
@@ -40,6 +43,13 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 
 ### Detail Page
 ![Detail](Detail.png)
+**Visuals**
+- **Archive Date Slider (Upper Left)**
+- **Slicer (Upper Left)** for the **Case Types** with a dropdown select options: Select All, Day Case, Inpatient, Outpatient
+- **Slicer (Center Left)** for the **Specialty Names** with a dropdown select options for all types of specialties that exist
+- **Slicer (Center Left)** for the **Age** with a dropdown select options: Select All, 0-15, 16-64, 65+, No Input
+- **Slicer (Bottom Left)** for the **Time Band** with a dropdown select options: Select All, 0-3 Months, 3-6 Months, 6-9 Months, 9-12 Months, 12-15 Months, 15-18 Months, 18+ Months
+- **Matrix (Center)** representing a **Detailed Grid View** where presented data depends on the selected options in a prevously described slider and slicers
 
 ## 📈 Key Insights
 - Trends in patient visits across time and region
