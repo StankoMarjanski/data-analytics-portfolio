@@ -22,7 +22,7 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 
 ## 📈 Dashboard Overview
 ###Summary page
- 
+![Summary](Summary.png)
 Numbers present on the various dashboard visuals depend of the date selected on a Archive Date Slider and the state of the Average - Median Wait List switch button
 - Archive Date Slider (Upper)
 - Average - Median Total Wait List switch button (Upper Right)
