@@ -6,5 +6,5 @@ Currently featuring my first project — the ***Healthcare Data: Patient Wait Li
 <p align="center">
   <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/Summary.png" alt="Power BI Dashboard Summary" width="45%"/>
   &nbsp;
-  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/SummaryDrillDown.png" alt="Power BI Dashboard Detail" width="45"/>
+  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/SummaryDrillDown.png" alt="Power BI Dashboard Detail" width="40"/>
 </p>
