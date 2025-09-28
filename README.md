@@ -1,5 +1,3 @@
 # 📊 Data Analytics Portfolio 📊
 
-This repository currently features my first completed project — the **Healthcare Data - Patient Wait List Dashboard** built in **Power BI** — and will soon expand to include additional projects such as:
-**Tableau** dashboards, **ETL** workflows, **Data Warehouse** implementations, and more. 
-These projects demonstrate my growing skills in data analytics, business intelligence, and data engineering, with hands-on experience in tools like **Power BI**, **Tableau**, **SQL**, and **Python**, as well as concepts such as **Data Warehousing**, **ETL pipelines**, and **Visualization and Reporting**.
+Currently featuring my first project — the ***Healthcare Data: Patient Wait List Dashboard*** built in **Power BI** — this portfolio is the starting point of a growing collection. Upcoming additions will showcase **Tableau** dashboards, **ETL workflows**, and full **Data Warehouse** solutions, highlighting my expanding expertise in **analytics**, **business intelligence**, and **data engineering**.
