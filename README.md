@@ -7,8 +7,7 @@ Currently featuring my first project — the ***Healthcare Data: Patient Wait Li
   <!-- first row -->
   <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/Summary.png" alt="Image 1" width="300%"/>
   &nbsp;&nbsp;
-  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots
-/SummaryDrillDown.png" alt="Image 2" width="300%"/>
+  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/SummaryDrillDown.png" alt="Image 2" width="300%"/>
 </p>
 
 <p align="center">
