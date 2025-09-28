@@ -5,12 +5,12 @@ Currently featuring my first project — the ***Healthcare Data: Patient Wait Li
 
 <p align="center">
   <!-- first row -->
-  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/Summary.png" alt="Image 1" width="300%"/>
+  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/Summary.png" alt="Image 1" width="150%"/>
   &nbsp;&nbsp;
-  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/SummaryDrillDown.png" alt="Image 2" width="300%"/>
+  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/SummaryDrillDown.png" alt="Image 2" width="150%"/>
 </p>
 
 <p align="center">
   <!-- second row -->
-  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/Detail.png" alt="Image 3" width="300%"/>
+  <img src="power-bi-projects/healthcare-data-patient-wait-list/dashboard-screenshots/Detail.png" alt="Image 3" width="150%"/>
 </p>
