@@ -51,12 +51,6 @@ Numbers present on the various dashboard visuals **depend on the date selected**
 - **Slicer (Bottom Left)** for the **Time Band** with a dropdown select options: Select All, 0-3 Months, 3-6 Months, 6-9 Months, 9-12 Months, 12-15 Months, 15-18 Months, 18+ Months
 - **Matrix (Center)** represents a **Detailed Grid View** where displayed data depends on the selected options in the prevously described slider and slicers
 
-## 📈 Key Insights
-- Trends in patient visits across time and region
-- Cost distribution and billing breakdowns
-- Efficiency metrics for healthcare service usage
-- Doctor-level performance indicators
-
 ## 🚀 How to Use
 - Clone this repository or download the .pbix file.
 - Open the file in Power BI Desktop.
