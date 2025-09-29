@@ -25,7 +25,7 @@ It demonstrates my ability to clean, transform, and analyze data, as well as des
 ### Summary page
 ![Summary](dashboard-screenshots/Summary.png)
 **Visuals**
-Numbers present on the various dashboard visuals **depend on the date selected** in the **Archive Date Slider** and the **state** of the **Average–Median Wait List switch button**
+- Numbers present on the various dashboard visuals **depend on the date selected** in the **Archive Date Slider** and the **state** of the **Average–Median Wait List switch button**
 - **Archive Date Slider (Upper Center)**
 - **Slicer (Upper Center)** for the **Case Types** with a dropdown select options (Select All, Day Case, Inpatient, Outpatient)
 - **Slicer (Upper Right)** for the **Specialty Name** with a dropdown select options for all types of specialties that exist
