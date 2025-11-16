@@ -1,4 +1,4 @@
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1fb62c00-43e8-4bb2-beb8-04cd3eb702b9" /> Data Warehouse Project
+# <img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/1fb62c00-43e8-4bb2-beb8-04cd3eb702b9" /> Data Warehouse Project
 
 Welcome to my Data Warehouse project — a small, practical implementation of the **Medallion architecture** built on **PostgreSQL**.  
 Think of this repo as a refining pipeline: raw source files flow into the **bronze** layer, get cleaned and standardized in **silver**, and emerge as business-ready **gold** artifacts for BI, reporting, and ML.
