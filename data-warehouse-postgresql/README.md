@@ -1,11 +1,16 @@
 # <img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/1fb62c00-43e8-4bb2-beb8-04cd3eb702b9" /> Data Warehouse Project
 
-Welcome to my Data Warehouse project — a small, practical implementation of the **Medallion architecture** built on **PostgreSQL**.  
-Think of this repo as a refining pipeline: raw source files flow into the **bronze** layer, get cleaned and standardized in **silver**, and emerge as business-ready **gold** artifacts for BI, reporting, and ML.
+## Welcome
 
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+Welcome to my Data Warehouse project — a concise, runnable **PostgreSQL** implementation created for portfolio and learning purposes.  
+This repository contains organized SQL scripts, sample data and focused documentation grouped by purpose (initialization, schemas, tables, ETL, and analytics).  
+
+Each major area is documented in its own file — open the `docs/` and `scripts/` folders to find step-by-step instructions and runnable SQL for that topic.
+
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Even though it’s a portfolio project, it follows industry best practices in data engineering and analytics.
 
 ---
+
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
@@ -16,6 +21,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
+
 ## 📖 Project Overview
 
 This project involves:
@@ -24,6 +30,8 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+---
 
 ## 🚀 Project Requirements
 
